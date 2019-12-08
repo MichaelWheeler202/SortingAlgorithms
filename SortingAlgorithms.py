@@ -116,7 +116,6 @@ def counting_sort(list_to_sort):
             for j in range(counting_dict[i]):
                 new_list.append(i)
 
-
     end_time = time.clock()
 
     time_to_sort = end_time - start_time
