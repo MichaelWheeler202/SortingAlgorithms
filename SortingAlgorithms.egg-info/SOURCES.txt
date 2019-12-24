@@ -1,0 +1,10 @@
+Main.py
+README.md
+SortingAlgorithms.py
+Statistics.py
+quicktest.py
+setup.py
+SortingAlgorithms.egg-info/PKG-INFO
+SortingAlgorithms.egg-info/SOURCES.txt
+SortingAlgorithms.egg-info/dependency_links.txt
+SortingAlgorithms.egg-info/top_level.txt
