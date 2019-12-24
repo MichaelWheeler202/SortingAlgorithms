@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64e5317-4222-41c6-9edd-7f4277180eed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_sorting_algorithms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortingAlgorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/SortingAlgorithms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Setup Script" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -25,10 +23,15 @@
   </component>
   <component name="ProjectId" id="1VRIs5l3hTDhPQNIj1Y2qJCJFO6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FlowersGAN" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Python.Main">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -125,13 +128,57 @@
       <option name="presentableId" value="Default" />
       <updated>1575699810039</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added setup.py and requirements.txt">
+      <created>1577209749464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577209749464</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added setup.py and requirements.txt">
+      <created>1577209766634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577209766634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added setup.py and requirements.txt">
+      <created>1577209943055</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577209943055</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added setup.py and requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added setup.py and requirements.txt" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="934" y="285" key="CommitChangelistDialog2" timestamp="1577209747627">
+    <state x="872" y="359" key="#Notifications" timestamp="1577209806017">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="934" y="285" key="CommitChangelistDialog2/0.0.2560.1400/-1920.344.1920.1040/2560.404.1680.1010@0.0.2560.1400" timestamp="1577209747627" />
+    <state x="872" y="359" key="#Notifications/0.0.2560.1400/-1920.344.1920.1040/2560.404.1680.1010@0.0.2560.1400" timestamp="1577209806017" />
+    <state x="934" y="285" key="CommitChangelistDialog2" timestamp="1577209948986">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="934" y="285" key="CommitChangelistDialog2/0.0.2560.1400/-1920.344.1920.1040/2560.404.1680.1010@0.0.2560.1400" timestamp="1577209948986" />
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog" timestamp="1577209928110">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="92" y="92" width="2376" height="1216" key="DiffContextDialog/0.0.2560.1400/-1920.344.1920.1040/2560.404.1680.1010@0.0.2560.1400" timestamp="1577209928110" />
     <state x="1059" y="455" key="FileChooserDialogImpl" timestamp="1577209573490">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -152,10 +199,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1269" height="275" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.344.1920.1040/2560.404.1680.1010@0.0.2560.1400" timestamp="1577209674815" />
-    <state x="781" y="343" key="SettingsEditor" timestamp="1577209671381">
+    <state x="781" y="343" key="SettingsEditor" timestamp="1577210865503">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="781" y="343" key="SettingsEditor/0.0.2560.1400/-1920.344.1920.1040/2560.404.1680.1010@0.0.2560.1400" timestamp="1577209671381" />
+    <state x="781" y="343" key="SettingsEditor/0.0.2560.1400/-1920.344.1920.1040/2560.404.1680.1010@0.0.2560.1400" timestamp="1577210865503" />
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2" timestamp="1577209778067">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.344.1920.1040/2560.404.1680.1010@0.0.2560.1400" timestamp="1577209778067" />
     <state x="976" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1577209692748">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
